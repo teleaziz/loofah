@@ -1,6 +1,7 @@
-*~
-doc
-pkg
-tmp
-Gemfile.lock
-.bundle
+/nbproject/
+/.idea/*
+*.tmlanguage.cache
+*.tmPreferences.cache
+*.stTheme.cache
+*.sublime-workspace
+*.sublime-project
